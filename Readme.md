@@ -20,7 +20,7 @@ networkwalks-penetration-testing-week2/
 │   └── PENETRATION_TESTING_REPORT.md  # Complete, full-text penetration testing report
 └── references/
     └── commands.md                    # Exact commands used across all 5 modules
-tep 1: Create the GitHub RepositoryLog in to your GitHub account and go to github.com/new.   Fill out the repository details:Repository name (Title): networkwalks-penetration-testing-week2   Description: Penetration testing report and command reference covering Phase 1 (Reconnaissance & Footprinting) and Phase 2 (Network Scanning & Discovery) using Kali Linux, OSINT tools, and Zenmap.   Visibility: Select Public (so you can easily showcase it on your portfolio or LinkedIn).   Note: Leave "Add a README file", "Add .gitignore", and "Choose a license" unchecked (since we will add them manually).   Click Create repository.   Step 2: Add the README.md File (Landing Page)On your new repository main page, click the link that says "creating a new file" (or click Add file -> Create new file).   In the file name box, type: README.md   Copy and paste the following content into the editor:   Markdown# Penetration Testing Report: Footprinting & Network Scanning Phases
+
 
 **Program:** Networkwalks Cybersecurity & Ethical Hacking Program (B082-Networkwalks)  
 **Author:** Karam Alwakeel  
