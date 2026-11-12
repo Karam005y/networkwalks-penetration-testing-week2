@@ -2,7 +2,6 @@
 
 **Program:** Networkwalks Cybersecurity & Ethical Hacking Program (B082-Networkwalks)  
 **Author:** Karam Alwakeel  
-**Pentester (Report Attribution):**  
 **Date:** November 12, 2026  
 **Report ID:** W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS  
 
